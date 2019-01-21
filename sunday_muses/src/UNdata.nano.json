@@ -1,0 +1,62 @@
+[
+  {
+    "Country or Area": "Albania",
+    "Year": 2011,
+    "Area": "Total",
+    "Sex": "Both Sexes",
+    "Religion": "Total",
+    "Record Type": "Census - de jure - complete tabulation",
+    "Reliability": "Final figure, complete",
+    "Source Year": 2013,
+    "Value": 2800138,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Albania",
+    "Year": 2011,
+    "Area": "Total",
+    "Sex": "Both Sexes",
+    "Religion": "Atheist",
+    "Record Type": "Census - de jure - complete tabulation",
+    "Reliability": "Final figure, complete",
+    "Source Year": 2013,
+    "Value": 69995,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Albania",
+    "Year": 2011,
+    "Area": "Total",
+    "Sex": "Both Sexes",
+    "Religion": "Catholic",
+    "Record Type": "Census - de jure - complete tabulation",
+    "Reliability": "Final figure, complete",
+    "Source Year": 2013,
+    "Value": 280921,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Albania",
+    "Year": 2011,
+    "Area": "Total",
+    "Sex": "Both Sexes",
+    "Religion": "Evangelical",
+    "Record Type": "Census - de jure - complete tabulation",
+    "Reliability": "Final figure, complete",
+    "Source Year": 2013,
+    "Value": 3797,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Albania",
+    "Year": 2011,
+    "Area": "Total",
+    "Sex": "Both Sexes",
+    "Religion": "Muslim",
+    "Record Type": "Census - de jure - complete tabulation",
+    "Reliability": "Final figure, complete",
+    "Source Year": 2013,
+    "Value": 1587608,
+    "Value Footnotes": ""
+  }
+]
