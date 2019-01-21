@@ -13,8 +13,18 @@ const data = [
 ];
 
 const options = {
-  filterType: 'checkbox',
+    filterType: 'checkbox',
+    pagination: false,
+    selectableRows: false,
+    responsive: 'scroll',
+    print: false,
+    download: false,
+    setRowProps: null,
+    // function(row: array, rowIndex: number) => object
+    onRowClick: null,
+    // function(rowData: string[], rowMeta: { dataIndex: number, rowIndex: number }) => void
 };
+
 class Body extends Component{
 
     render(){
