@@ -2,6 +2,8 @@ import React, {Component} from 'react'
 import MUIDataTable from 'mui-datatables'
 import data from '../UNdata.nano.json'
 
+// https://github.com/gregnb/mui-datatables/pull/331
+
 const columns = ["Country or Area",
     "Year",
     "Area",
