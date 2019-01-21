@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
 import MUIDataTable from 'mui-datatables'
-<<<<<<< HEAD
 
 
 
@@ -11,20 +10,6 @@ const data = [
  ["John Walsh", "Test Corp", "Hartford", "CT"],
  ["Bob Herm", "Test Corp", "Tampa", "FL"],
  ["James Houston", "Test Corp", "Dallas", "TX"],
-=======
-import data from '../UNdata.nano.json'
-
-const columns = ["Country or Area",
-    "Year",
-    "Area",
-    "Sex",
-    "Religion",
-    "Record Type",
-    "Reliability",
-    "Source Year", 
-    "Value", 
-    "Value Footnote"
->>>>>>> 4214068cd14e5186c134c00e0af0ffe61a702342
 ];
 
 const options = {
