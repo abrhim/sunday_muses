@@ -34,7 +34,7 @@ class Body extends Component{
     render(){
         return(    
         <MUIDataTable
-            title={"Employee List"}
+            title={"Religion around the World"}
             data={data}
             columns={columns}
             options={options}
